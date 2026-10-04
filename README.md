@@ -19,3 +19,14 @@ Multiplication
 Division
 
 The program runs in a loop until it is stopped with Ctrl-C.
+
+-----------------------------------------------------------------------------------------------------------------
+
+## AI usage
+
+I used ChatGPT to help me understand Rust concepts such as string slices,
+borrowing, ownership, and the use of `&str`. I also used it to review my
+code and explain why certain parts work.
+
+I learned how string slices reference parts of an existing string without
+creating a new String, and how Rust's borrowing rules affect references.
